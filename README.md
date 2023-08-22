@@ -1,2 +1,0 @@
-# desctop-authenticator
-desctop authenticator
